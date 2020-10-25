@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**gglee89/gglee89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gglee89/gglee89** is a my ✨ _special_ ✨ repository.
 
 Here are some facts about me:
 
