@@ -23,8 +23,7 @@ Here are some facts about me:
   - 1+ year as a WordPress plugin Developer;
   - 1+ year as a COBOL, C Developer *(Mainframe Batch Processing)*;
 - ⚡ Fun Facts:
-  - I can speak 4 languages well: Portuguese (Brazil), English (US), Korean, and Spanish;
-  - I used to be the keyboardist in the worship team at a Presbiteryan Church in Sao Paulo-Brazil while at the young-adults ministry for roughly 5 years;
+  - I can speak 4 languages with fluency: Portuguese (Brazil), English (US), Korean, and Spanish;
   - I am usually interested in Self-Development books that comprises topics on **Money, Growth, Philosophy, Psychology and Well-being**;
   - I like Brazilian songs from the 90s and early 2000s in genres on **Pop, Rock, Pagode, Axe**
   - **Favorite American TV shows:** House MD, Dexter, Everybody Hates Chris, The Fresh Prince of Bel-Air, Billionaire, The Big Bang Theory, Breaking Bad, The Newsroom, The House of Cards, Person of Interest;
