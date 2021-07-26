@@ -4,14 +4,14 @@
 
 Here are some facts about me:
 
-- 🔭 Full Stack Developer **@genealogy.co.kr**
+- 🔭 Head of Technology **@genealogy.co.kr**
 - 🔭 Mentor in the Frontend Nanodegree Program **@Udacity**
-- 🌱 I’m currently focusing on Data Engineering
-- 👯 I’m looking to collaborate on **Full Stack** projects.
+- 🌱 I’m currently focusing on scaling Bioinformatics AI/ML projects.
+- 👯 I’m looking to collaborate on **Data Engineering / Bioinformatics** projects.
 - 🤔 I’m looking for help with **DevOps** and **Mobile Native App Development**. 
 - 💬 Ask me about **Full Stack Development, AWS Cloud Architecture, and Data Engineering**
 - 📫 How to reach me: **gglee89@gmail.com** *(Personal E-mail)*
-- 😄 Pronouns: **Lee**, or **Gustavo**
+- 😄 Pronouns: **Gustavo**
 - 😄 Background: 
   - Born in Brazil, Sao Paulo; Lived until High-School;
  
