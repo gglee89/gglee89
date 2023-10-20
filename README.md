@@ -6,13 +6,9 @@ About me:
 - 🔬 Learning:       
     - **GraphQL**
     - **NextJS**
-    - **DX**
-        - performance optimization
-        - advanced rendering patterns: https://www.patterns.dev/book
-        - monorepos: https://lerna.js.org/docs/getting-started
-        - cleancode: Bob Martin
-    - **WebAssembly**
-    - **Rust**
+    - **Enterprise Architecture Patterns**
+    - **WASM**
+    - **JS Performance**
 - 🔭 Former mentor in the Frontend Nanodegree Program **@Udacity**
 - 📫 How to reach me: **gglee89@gmail.com** *(Personal E-mail)*
 - 😄 Pronouns: **He/him/his**
